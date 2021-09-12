@@ -1,14 +1,15 @@
 # 420-curse-word
 this repo contains 420+ curse words
-4r5e
-5h1t
-5hit
-a55
-anal
-anus
-ar5e
-arrse
-arse
+
+4r5e,
+5h1t,
+5hit,
+a55,
+anal,
+anus,
+ar5e,
+arrse,
+arse,
 ass-fucker
 asses
 assfucker
